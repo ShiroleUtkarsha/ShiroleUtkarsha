@@ -10,7 +10,7 @@ I'm actively seeking **full-time opportunities in Cybersecurity** starting Sprin
 
 **Security Tools:** Archer GRC, RSA Archer, Splunk SIEM, Wireshark, Burp Suite, Kali Linux, Nmap, Metasploit, FTK Imager, Spiderfoot
 
-**Programming & Scripting:** Python, Bash, PowerShell, SQL
+**Programming & Scripting:** Python, SQL
 
 **Cloud & Infrastructure:** AWS, Cloud Security, Secure SDLC
 
@@ -53,7 +53,7 @@ Boston, Massachusetts
 
 ## 🎓 Education
 
-**Master of Science in Computer Information Systems (Cybersecurity)** -  
+**Master of Science in Computer Information Systems (Cybersecurity)** 
 Northeastern University, Khoury College of Computer Sciences | 2023 - Present
 
 **Bachelor of Technology in Computer Science and Engineering**  
