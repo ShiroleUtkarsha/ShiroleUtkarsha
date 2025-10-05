@@ -1,8 +1,8 @@
 # Hi, I'm Utkarsha Shirole 👋
 
-I'm a cybersecurity professional with a strong foundation in **Information Security, Risk Management, and Security Engineering**. Currently pursuing my Master's in Computer Information Systems with a focus on Cybersecurity at Northeastern University, my experience spans GRC (Governance, Risk, and Compliance), vulnerability management, third-party risk assessments, and secure system design—where I've developed practical solutions to protect critical assets and strengthen security postures across financial services and technology organizations.
+I'm a cybersecurity professional with a strong foundation in **Information Security, Risk Management, and Security Engineering**. Currently pursuing my Master's in Cybersecurity at Northeastern University, my experience spans GRC (Governance, Risk, and Compliance), vulnerability management, third-party risk assessments, and secure system design—where I've developed practical solutions to protect critical assets and strengthen security postures across financial services and technology organizations.
 
-I'm actively seeking **full-time opportunities in Cybersecurity** starting Fall 2025, where I can leverage my technical skills, analytical mindset, and hands-on experience in security operations. I'm especially passionate about **application security, risk management, cloud security, and building resilient security programs** that protect organizations while enabling business growth.
+I'm actively seeking **full-time opportunities in Cybersecurity** starting Spring 2025, where I can leverage my technical skills, analytical mindset, and hands-on experience in security operations. I'm especially passionate about **application security, risk management, cloud security, and building resilient security programs** that protect organizations while enabling business growth.
 
 ## 🔧 Technical Toolkit
 
@@ -48,22 +48,12 @@ I'm actively seeking **full-time opportunities in Cybersecurity** starting Fall 
 - Conducted mobile and web application security testing, reducing vulnerabilities by 65%
 - Gained expertise in OWASP Top 10, reverse engineering, and threat modeling
 
-## 🚀 Featured Projects
-
-### AI-Driven Adaptive Multi-Factor Authentication System
-A intelligent MFA system that dynamically adjusts security requirements based on user behavior, device context, and risk assessment. Integrated with SSO solutions and built an admin dashboard for policy management.
-- **Impact:** 90% reduction in account takeover incidents, 60% decrease in authentication help desk calls
-- **Tech Stack:** Okta, Identity Access Management, Python
-
-### Security Risk Management Framework Implementation
-Developed comprehensive risk assessment methodologies and security control frameworks for critical infrastructure protection, applying NIST and CIS standards.
-
 ## 📍 Location
 Boston, Massachusetts
 
 ## 🎓 Education
 
-**Master of Science in Computer Information Systems (Cybersecurity)** - GPA: 3.4  
+**Master of Science in Computer Information Systems (Cybersecurity)** -  
 Northeastern University, Khoury College of Computer Sciences | 2023 - Present
 
 **Bachelor of Technology in Computer Science and Engineering**  
